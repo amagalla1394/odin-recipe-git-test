@@ -1,3 +1,3 @@
-# odin-recipe-git-test
+# odin-recipe-git-cli
 
 first odin project course assignment
